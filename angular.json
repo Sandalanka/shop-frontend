@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shop-frontend"
+    }
+  },
+  "defaultProject": "shop-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
